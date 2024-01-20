@@ -1,6 +1,9 @@
 ```Java
 System.out.println("Hello World!");
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 # It's Me! Mario!
 ![image of Mario](https://i.etsystatic.com/39120370/r/il/b76a0f/5125869018/il_1588xN.5125869018_720i.jpg)
 ## It's Me! Luigi!
